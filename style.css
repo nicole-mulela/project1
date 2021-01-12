@@ -1,0 +1,75 @@
+.submit {
+  background-color: #CB782A;
+  border: none;
+  color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5em;
+}
+.button {
+  background-color: #CB782A;
+  border: none;
+  color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 0.5em;
+}
+.link {
+
+  border: none;
+  color: #CB782A;
+  padding-top: 25px;
+  padding-bottom: 30px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+.submit:hover  {background-color: #A2AE44; text-decoration: none;color: white;}
+.button:hover  {background-color: #A2AE44; text-decoration: none;color: white;}
+.link:hover  {color: #A2AE44;}
+
+.formInput{
+width: 270px;
+color: rgb(38, 50, 56);
+font-weight: 700;
+font-size: 14px;
+letter-spacing: 1px;
+background: rgba(136, 126, 126, 0.04);
+padding: 10px 20px;
+border: none;
+border-radius: 15px;
+outline: none;
+box-sizing: border-box;
+border: 2px solid rgba(0, 0, 0, 0.02);
+margin-bottom: 50px;
+text-align: center;
+margin-bottom: 27px;
+}
+.pagetitle{
+  font-size: 30px;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  font-family: 'Raleway', sans-serif;
+  color: #CB782A;
+}
